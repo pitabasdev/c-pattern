@@ -1,3 +1,8 @@
+// 11111
+//  2222
+//   333
+//    44
+//     5
 #include<iostream>
 using namespace std;
 int main(){

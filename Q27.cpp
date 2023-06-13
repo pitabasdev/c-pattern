@@ -1,3 +1,8 @@
+// 123456789
+//  1234567
+//   12345
+//    123
+//     1
 #include<iostream>
 using namespace std;
 int main(){

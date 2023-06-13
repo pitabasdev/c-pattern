@@ -1,3 +1,8 @@
+// OO*OO
+// OO*OO
+// *****
+// OO*OO
+// OO*OO
 #include<iostream>
 using namespace std;
 int main(){
